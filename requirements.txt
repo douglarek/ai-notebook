@@ -5,3 +5,10 @@ openai
 weaviate-client
 tiktoken
 pydantic==1.10.12
+duckduckgo-search
+beautifulsoup4
+langserve
+nest_asyncio
+fastapi
+uvicorn
+sse_starlette
