@@ -13,3 +13,5 @@ fastapi
 uvicorn
 sse_starlette
 ragas
+langchain-google-genai
+pillow
