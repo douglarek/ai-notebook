@@ -15,3 +15,4 @@ sse_starlette
 ragas
 langchain-google-genai
 pillow
+langchain_mistralai
